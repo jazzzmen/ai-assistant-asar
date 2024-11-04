@@ -1,3 +1,5 @@
+Hi, there! Pls, after installing the zip folder, follow these steps to run the project:
+
 1. Create a Virtual Environment:
    python3 -m venv venv
    
